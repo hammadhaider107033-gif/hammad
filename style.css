@@ -1,0 +1,8 @@
+*{
+    width: 0;
+    height: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(50, 49, 49);;
+}
